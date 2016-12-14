@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aaaaa
 aaaaaa
+=======
+aaaaaaaa
+>>>>>>> branch01
